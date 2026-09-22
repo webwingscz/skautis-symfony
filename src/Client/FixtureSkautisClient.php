@@ -47,7 +47,7 @@ final class FixtureSkautisClient implements SkautisClientInterface
         // These two are how a session is established and kept alive, so they must
         // answer before there is anything to authenticate against.
         if ('UserManagement.LoginUpdateRefresh' === $key) {
-            return (object) ['DateLogout' => new \DateTimeImmutable('+30 minutes')->format(\DATE_ATOM)];
+            return (object) ['DateLogout' => (new \DateTimeImmutable('+30 minutes'))->format(\DATE_ATOM)];
         }
 
         $this->assertToken($service, $method);

@@ -30,6 +30,23 @@ use Webwings\SkautisBundle\WebwingsSkautisBundle;
  */
 final class BundleIntegrationTest extends TestCase
 {
+    /**
+     * Booting a kernel on Symfony 6.4 leaves an exception handler registered.
+     * Without putting the previous one back, PHPUnit reports every test here as
+     * risky for dirtying global state.
+     */
+    protected function tearDown(): void
+    {
+        parent::tearDown();
+
+        $current = set_exception_handler(null);
+        restore_exception_handler();
+
+        if (null !== $current) {
+            restore_exception_handler();
+        }
+    }
+
     public function testContainerCompilesAndWiresTheServices(): void
     {
         $container = $this->boot()->getContainer();
