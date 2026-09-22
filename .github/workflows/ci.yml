@@ -3,6 +3,8 @@ name: CI
 on:
   push:
   pull_request:
+  # Aby šel běh spustit ručně z UI - po zapnutí Actions se zpětně nic nespustí.
+  workflow_dispatch:
 
 jobs:
   tests:
