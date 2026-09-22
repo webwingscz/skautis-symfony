@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1001,
+    "ID_UnitParent": null,
+    "ID_UnitType": "stredisko",
+    "UnitType": "Středisko",
+    "DisplayName": "Středisko Javor Brno",
+    "SortName": "Javor Brno",
+    "RegistrationNumber": "312",
+    "Street": "Lesní 12",
+    "City": "Brno",
+    "Postcode": "60200",
+    "Email": "stredisko@javor.example",
+    "Phone": "+420 541 111 222"
+  },
+  {
+    "ID": 1002,
+    "ID_UnitParent": 1001,
+    "ID_UnitType": "oddil",
+    "UnitType": "Oddíl",
+    "DisplayName": "1. oddíl Racci",
+    "SortName": "Racci",
+    "RegistrationNumber": "312.01",
+    "Street": "Lesní 12",
+    "City": "Brno",
+    "Postcode": "60200",
+    "Email": "racci@javor.example",
+    "Phone": "+420 777 123 456"
+  },
+  {
+    "ID": 1003,
+    "ID_UnitParent": 1001,
+    "ID_UnitType": "oddil",
+    "UnitType": "Oddíl",
+    "DisplayName": "2. oddíl Vlčata",
+    "SortName": "Vlčata",
+    "RegistrationNumber": "312.02",
+    "City": "Brno",
+    "Postcode": "60200",
+    "Email": "vlcata@javor.example"
+  }
+]

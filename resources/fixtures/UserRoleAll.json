@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 7001,
+    "ID_User": 9001,
+    "ID_Role": 21,
+    "Role": "Vedoucí oddílu",
+    "ID_Unit": 1002,
+    "Unit": "1. oddíl Racci",
+    "RegistrationNumber": "312.01",
+    "DisplayName": "Vedoucí oddílu - 1. oddíl Racci",
+    "IsActive": true,
+    "CanEdit": true
+  },
+  {
+    "ID": 7002,
+    "ID_User": 9001,
+    "ID_Role": 30,
+    "Role": "Hospodář střediska",
+    "ID_Unit": 1001,
+    "Unit": "Středisko Javor Brno",
+    "RegistrationNumber": "312",
+    "DisplayName": "Hospodář střediska - Středisko Javor Brno",
+    "IsActive": true,
+    "CanEdit": false
+  }
+]

@@ -1,0 +1,56 @@
+{
+    "name": "webwingscz/skautis-symfony",
+    "description": "Symfony bundle pro webové služby skautISu (is.skaut.cz): typovaný SOAP klient, přihlašování a role.",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "keywords": [
+        "skautis",
+        "skaut",
+        "junak",
+        "symfony",
+        "soap"
+    ],
+    "authors": [
+        {
+            "name": "Jiří Dorazil",
+            "email": "dorazil@webwings.cz"
+        },
+        {
+            "name": "Webwings s.r.o.",
+            "homepage": "https://webwings.cz"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "ext-soap": "*",
+        "psr/log": "^2.0 || ^3.0",
+        "symfony/config": "^6.4 || ^7.0 || ^8.0",
+        "symfony/dependency-injection": "^6.4 || ^7.0 || ^8.0",
+        "symfony/event-dispatcher": "^6.4 || ^7.0 || ^8.0",
+        "symfony/http-foundation": "^6.4 || ^7.0 || ^8.0",
+        "symfony/http-kernel": "^6.4 || ^7.0 || ^8.0",
+        "symfony/routing": "^6.4 || ^7.0 || ^8.0",
+        "symfony/security-bundle": "^6.4 || ^7.0 || ^8.0",
+        "symfony/security-core": "^6.4 || ^7.0 || ^8.0",
+        "symfony/security-http": "^6.4 || ^7.0 || ^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0 || ^12.0 || ^13.0",
+        "symfony/framework-bundle": "^6.4 || ^7.0 || ^8.0",
+        "symfony/yaml": "^6.4 || ^7.0 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webwings\\SkautisBundle\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Webwings\\SkautisBundle\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}

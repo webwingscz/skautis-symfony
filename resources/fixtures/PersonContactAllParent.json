@@ -1,0 +1,242 @@
+[
+  {
+    "ID": 8003,
+    "ID_Person": 5002,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 623 664 534"
+  },
+  {
+    "ID": 8004,
+    "ID_Person": 5002,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.adela.novakova@example.com"
+  },
+  {
+    "ID": 8005,
+    "ID_Person": 5003,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 612 326 147"
+  },
+  {
+    "ID": 8006,
+    "ID_Person": 5003,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.tereza.cerna@example.com"
+  },
+  {
+    "ID": 8007,
+    "ID_Person": 5004,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 626 695 684"
+  },
+  {
+    "ID": 8008,
+    "ID_Person": 5004,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.lucie.dvorakova@example.com"
+  },
+  {
+    "ID": 8009,
+    "ID_Person": 5005,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 774 644 537"
+  },
+  {
+    "ID": 8010,
+    "ID_Person": 5005,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.tereza.svobodova@example.com"
+  },
+  {
+    "ID": 8011,
+    "ID_Person": 5006,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 620 688 407"
+  },
+  {
+    "ID": 8012,
+    "ID_Person": 5006,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.matej.kucera@example.com"
+  },
+  {
+    "ID": 8013,
+    "ID_Person": 5007,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 642 875 450"
+  },
+  {
+    "ID": 8014,
+    "ID_Person": 5007,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.matej.prochazka@example.com"
+  },
+  {
+    "ID": 8015,
+    "ID_Person": 5008,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 687 811 458"
+  },
+  {
+    "ID": 8016,
+    "ID_Person": 5008,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.lucie.novakova@example.com"
+  },
+  {
+    "ID": 8017,
+    "ID_Person": 5009,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 779 417 762"
+  },
+  {
+    "ID": 8018,
+    "ID_Person": 5009,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.matej.svoboda@example.com"
+  },
+  {
+    "ID": 8019,
+    "ID_Person": 5010,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 726 160 323"
+  },
+  {
+    "ID": 8020,
+    "ID_Person": 5010,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.filip.kucera@example.com"
+  },
+  {
+    "ID": 8025,
+    "ID_Person": 5013,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 601 249 529"
+  },
+  {
+    "ID": 8026,
+    "ID_Person": 5013,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.adela.novakova@example.com"
+  },
+  {
+    "ID": 8027,
+    "ID_Person": 5014,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 774 917 672"
+  },
+  {
+    "ID": 8028,
+    "ID_Person": 5014,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.vojtech.dvorak@example.com"
+  },
+  {
+    "ID": 8029,
+    "ID_Person": 5015,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 648 168 313"
+  },
+  {
+    "ID": 8030,
+    "ID_Person": 5015,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.filip.vesely@example.com"
+  },
+  {
+    "ID": 8031,
+    "ID_Person": 5016,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 737 203 472"
+  },
+  {
+    "ID": 8032,
+    "ID_Person": 5016,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.jakub.kucera@example.com"
+  },
+  {
+    "ID": 8033,
+    "ID_Person": 5017,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 721 225 218"
+  },
+  {
+    "ID": 8034,
+    "ID_Person": 5017,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.adela.vesela@example.com"
+  },
+  {
+    "ID": 8035,
+    "ID_Person": 5018,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 667 590 948"
+  },
+  {
+    "ID": 8036,
+    "ID_Person": 5018,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "rodic.matej.horak@example.com"
+  }
+]

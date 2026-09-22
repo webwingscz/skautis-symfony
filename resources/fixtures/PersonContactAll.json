@@ -1,0 +1,82 @@
+[
+  {
+    "ID": 8001,
+    "ID_Person": 5001,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 624 474 696"
+  },
+  {
+    "ID": 8002,
+    "ID_Person": 5001,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "eliska.dvorakova@example.com"
+  },
+  {
+    "ID": 8021,
+    "ID_Person": 5011,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 702 662 384"
+  },
+  {
+    "ID": 8022,
+    "ID_Person": 5011,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "martin.vesely@example.com"
+  },
+  {
+    "ID": 8023,
+    "ID_Person": 5012,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 621 280 254"
+  },
+  {
+    "ID": 8024,
+    "ID_Person": 5012,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "marketa.vesela@example.com"
+  },
+  {
+    "ID": 8037,
+    "ID_Person": 5019,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 735 405 758"
+  },
+  {
+    "ID": 8038,
+    "ID_Person": 5019,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "jana.cerna@example.com"
+  },
+  {
+    "ID": 8039,
+    "ID_Person": 5020,
+    "ID_ContactType": "telefon",
+    "ContactType": "Telefon",
+    "IsMain": true,
+    "Value": "+420 738 897 614"
+  },
+  {
+    "ID": 8040,
+    "ID_Person": 5020,
+    "ID_ContactType": "email",
+    "ContactType": "E-mail",
+    "IsMain": true,
+    "Value": "marketa.kucerova@example.com"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "ID": 9001,
+    "IsActive": true,
+    "UserName": "demo.vedouci",
+    "ID_Person": 5001,
+    "Person": "Nováková Jana",
+    "HasMembership": true
+  }
+]
